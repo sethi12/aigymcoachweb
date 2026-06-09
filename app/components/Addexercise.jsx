@@ -674,16 +674,16 @@ const API_URL =
       Select Movement Pattern
     </option>
 
-    <option value="Press Horizontal">Press Horizontal</option>
-    <option value="Press Vertical">Press Vertical</option>
-    <option value="Pull Horizontal">Pull Horizontal</option>
-    <option value="Pull Vertical">Pull Vertical</option>
-    <option value="Curl">Curl</option>
-    <option value="Tricep">Tricep</option>
-    <option value="Squat">Squat</option>
-    <option value="Lunge">Lunge</option>
-     <option value="Hinge">Hinge</option>
-      <option value="Core">Lunge</option>
+    <option value="PRESS HORIZONTAL">Press Horizontal</option>
+    <option value="PRESS VERTICAL">Press Vertical</option>
+    <option value="PULL HORIZONTAL">Pull Horizontal</option>
+    <option value="PULL VERTICAL">Pull Vertical</option>
+    <option value="CURL">Curl</option>
+    <option value="TRICEP">Tricep</option>
+    <option value="SQUAT">Squat</option>
+    <option value="LUNGE">Lunge</option>
+     <option value="HINGE">Hinge</option>
+      <option value="CORE">Lunge</option>
        
   </select>
 </div>
